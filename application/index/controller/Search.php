@@ -18,7 +18,7 @@ class Search extends Base
         }else{
             $this->assign(array(
                 'searchres'=>null,
-                'keywords'=>'暂无数据'
+                'keywords'=>'这是新的Search'
                 ));
         }
 
